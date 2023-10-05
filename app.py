@@ -35,14 +35,15 @@ def main():
          st.write("Fit.ai is an AI-powered health app designed to guide you on diet and workouts tailored to your specific needs.")
         
          st.subheader("Example Questions for Fit.ai:")
-         st.write("- What's a balanced meal plan for weight loss?")
-         st.write("- How many calories should I consume daily?")
-         st.write("- What exercises can help strengthen my core?")
-         st.write("- Is a keto diet right for me?")
-         st.write("- How can I improve my running stamina?")
-         st.write("- Are there any effective home workouts?")
-         st.write("- What foods can help boost my metabolism?")
-         st.write("- How often should I change my workout routine for optimal results?")
+         st.write("- How can I personalize my diet based on my activity level and goals?")
+         st.write("- Can you suggest a workout routine to alleviate lower back pain?")
+         st.write("- What are the best foods for muscle recovery after a strenuous workout?")
+         st.write("- How should I adjust my nutrition if I'm training for a marathon?")
+         st.write("- What's the difference between HIIT and circuit training? Which is right for me?")
+         st.write("- How can I track and improve my progress over time?")
+         st.write("- I have dietary restrictions; can you help formulate a plan that suits me?")
+         st.write("- Can you provide exercises that focus on flexibility and balance?")
+
 
 
 
