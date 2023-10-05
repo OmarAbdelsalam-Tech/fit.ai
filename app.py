@@ -9,7 +9,7 @@ background_image_path = "vaugn.jpg"
 
 def main():
     st.set_page_config(page_title="Fit.ai", page_icon=":guardsman:", layout="wide")
-    st.title("Sheikh-GPT")
+    st.title("Fit.ai")
     st.subheader(" Contributions: Omar , Vaughn, Robert, Seth, Will")
 
     # Set up the layout
