@@ -5,7 +5,7 @@ openai.api_key = st.secrets["openai"]["api_key"]
 
 
 # Replace the path with your own Islamic-related background image
-background_image_path = "vaugn.jpg"
+background_image_path = "vaugn.png"
 
 def main():
     st.set_page_config(page_title="Fit.ai", page_icon=":guardsman:", layout="wide")
