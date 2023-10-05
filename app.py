@@ -41,7 +41,7 @@ def send_message(user_input, chat_history):
         chat_history.write(f"<p style='font-weight:bold'>User: {message}</p>", unsafe_allow_html=True)
 
         response_text = get_chatbot_response(message)
-        response = f"<p style='color:blue;font-weight:bold'>Sheikh-GPT: {response_text}</p>"
+        response = f"<p style='color:blue;font-weight:bold'>Fit.ai: {response_text}</p>"
         chat_history.write(response, unsafe_allow_html=True)
 
         # Clear the user input after sending the message
