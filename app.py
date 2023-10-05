@@ -29,10 +29,21 @@ def main():
     with col2:
          st.subheader("About Fit.ai")
          st.write("Struggling to maintain a balanced diet or looking for the right workout routine?")
-        
+                
          st.write("Ever too embarrassed to ask your gym instructor or nutritionist about something personal?")
-
+        
          st.write("Fit.ai is an AI-powered health app designed to guide you on diet and workouts tailored to your specific needs.")
+        
+         st.subheader("Example Questions for Fit.ai:")
+         st.write("- What's a balanced meal plan for weight loss?")
+         st.write("- How many calories should I consume daily?")
+         st.write("- What exercises can help strengthen my core?")
+         st.write("- Is a keto diet right for me?")
+         st.write("- How can I improve my running stamina?")
+         st.write("- Are there any effective home workouts?")
+         st.write("- What foods can help boost my metabolism?")
+         st.write("- How often should I change my workout routine for optimal results?")
+
 
 
 def send_message(user_input, chat_history):
